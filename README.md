@@ -1,5 +1,5 @@
 # Real-Time--Laptop-manufacturing-factory-simulation
-
+project in threads
 We would like to build a multi-threading application that simulates the behavior of a laptop manufacturing factory. The system behaves as follows:
   • There are 10 manufacturing lines inside the factory. Each line is composed of 10 technical employees each executing a step in the laptop manufacturing process. Each step might take a certain amount of time but is bound in a range between a min value and a max value.
   • Steps 1 to 5 have to happen in order. Steps 6 to 10 can happen in any order.
